@@ -23,8 +23,8 @@ I treat blockchains the way a forensic accountant treats a crime scene — metho
 
 Got a law degree somewhere in the drawer. Turns out understanding smart contract exploits and understanding contract law aren't that different — both require knowing exactly where the loophole is before the other side does.
 
-Started in crypto **2021**. By the time most people were still figuring out MetaMask,  
-I was already the **fastest executor on BSC** — mempool reading, block sniping, sub-block execution.  
+Started in crypto **2021**. Mempool reading, block sniping, sub-block execution on BSC —  
+back when most tooling couldn't even get close.  
 The market has changed. The instincts haven't.
 
 ---
@@ -67,7 +67,7 @@ Things I've built and deployed. Most of it ran in production. Some of it ran too
 
 <div align="center">
 
-![typeklok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=typeklok&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&icon_color=39ff14&text_color=cccccc)
+![typeklok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=typeklok&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&icon_color=39ff14&text_color=cccccc)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typeklok&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&text_color=cccccc)
 
